@@ -1,1 +1,0 @@
-import{j as s,N as e,P as a}from"./index-bmSj7hgc.js";const r="_logo_1841k_1",c={logo:r},n=()=>s.jsx(e,{to:"/",className:c.logo,children:"AquaTrack"}),t="_page_19fki_1",p={page:t},g=({children:o})=>s.jsxs("div",{className:p.page,children:[s.jsx(n,{}),o]});g.propTypes={children:a.node.isRequired};export{g as P};
